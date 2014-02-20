@@ -1,0 +1,8 @@
+{
+  "name": "cristiandouce-tags-free",
+  "description": "Strips tags from raw html strings.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
+}
